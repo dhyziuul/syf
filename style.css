@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600');
 .navbar-nav>li {
   float: left;
   height: 30px;
@@ -89,7 +89,7 @@ textarea {
 }
 
 .username {
-  color: #558cb3;
+  color: #ff6699;
   display: block;
   margin-bottom: 4px;
 }
@@ -599,7 +599,7 @@ div#chatwrap .form-control,
 }
 
 .popup-emote:hover {
-  background: #6b91ac;
+  background: #ff6699;
 }
 
 btn-default:focus {
